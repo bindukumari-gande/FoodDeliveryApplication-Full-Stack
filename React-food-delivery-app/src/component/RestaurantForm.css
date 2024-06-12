@@ -1,0 +1,30 @@
+span{
+    color: red;
+}
+
+
+.rf{
+    height: 86vh;
+    width: 100%;
+    background-repeat:no repeat;
+    background-size: cover; 
+
+}
+
+.rest{
+
+    background-image: url("../../public/image/bg5.webp") ;
+     
+   
+    background-repeat:no repeat;
+    background-size: cover; 
+}
+.resform{
+    margin-left: 50%;
+    margin-top: 10%;
+    margin-left: 190%;
+    border-style: groove;
+    width: 100%;
+    padding: 40px;
+    border-width: 10px;
+}

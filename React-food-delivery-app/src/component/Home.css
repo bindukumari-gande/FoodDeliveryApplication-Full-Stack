@@ -1,0 +1,30 @@
+.navbar{
+    background-image: linear-gradient(#FC6A03,#FCAE1E)
+}
+body{
+    background-image:url("../../public/image/gpiz.png");
+    height: 86vh;
+    width: 100%; 
+    background-repeat:no repeat;
+    background-size: cover; 
+    margin-right: auto;
+    margin: bottom 80%;
+}
+img{
+    float: right;
+    float: left;
+    width: 55%;
+    margin-top:1%;
+}
+
+#slogan{
+    width: 40%;
+    margin-top: 15%;
+    float: left;
+    font-style:'Harlow Solid Italic';
+}
+.nav-link:hover{
+    font-size: 120%;
+    border-style: overflow;
+    color: #ffdacc;
+}

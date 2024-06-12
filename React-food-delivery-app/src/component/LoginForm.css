@@ -1,0 +1,50 @@
+form{
+    width: fit-content;
+    align-content: center;
+    border-radius: 2%;
+}
+.f{
+    float: left;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+img{
+    float: right;
+    float: left;
+    width: 55%;
+    margin-top:1%;
+}
+form{
+    width: 30%;
+    align-content: center;
+    border-radius: 5%;
+}
+.f{
+    float: left;
+    margin-left: 20%;
+}
+img{
+    float: right;
+    float: left;
+    width: 600%;
+    margin-top:1%;
+    max-height: max-content;
+}
+.bg
+{
+    width: 200%;
+    height: 500%;
+    max-width: 100%;
+
+
+}
+.loginform{
+    margin-top: 25%;
+    margin-left: 30%;
+    border-style: groove;
+    width: 600%;
+    padding: 40px;
+    border-width: 10px;
+
+}
+

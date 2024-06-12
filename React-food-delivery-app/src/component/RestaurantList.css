@@ -1,0 +1,7 @@
+.rl{
+    background-image: url("../../public/reslist.jpg");
+    height: 86vh;
+    width: 100%;
+    background-repeat:no repeat;
+    background-size: cover; 
+}

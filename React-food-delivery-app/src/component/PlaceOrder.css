@@ -1,0 +1,13 @@
+.po{
+    border:10%;
+    margin-top: 3%
+}
+.place{
+    margin-left: 120%;
+    flood-opacity: 30%;
+    margin-top: 20%;
+    border-radius: 20%;
+    padding: 40px;
+    border-width: 5px;
+    border-style: groove;
+}

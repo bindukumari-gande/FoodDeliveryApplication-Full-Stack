@@ -1,0 +1,24 @@
+.card{
+    float:right;
+}
+
+.card-header{
+    color:green;
+    font-size:large;
+    background-color:darkorange;
+    
+}
+.btn-primary{
+    margin-top: 20%;
+}
+img{
+    width:80%;
+    height:50%;
+}
+#borderdesign{
+    background-color: orangered
+    
+}
+.card-body{
+    background-color:orange;
+}
